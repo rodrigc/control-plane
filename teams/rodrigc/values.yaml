@@ -1,0 +1,8 @@
+email: rodrigc@crodrigues.org
+cluster: workshop
+namespaces:
+- dev
+- stage
+- prod
+repos:
+- demo-app-deploy
